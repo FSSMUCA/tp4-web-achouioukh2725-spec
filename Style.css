@@ -1,0 +1,16 @@
+h2 {
+  font-weight: 700;
+  color: rgb(235, 240, 235);
+}
+head{
+  color: green;
+}
+
+
+.card img {
+  height: 180px;
+  object-fit: cover;
+}
+body{
+  background-color: black;
+}
